@@ -1,0 +1,4 @@
+mutagen==1.45.1
+pygame==2.0.2
+python-vlc==3.0.12118
+tinytag==1.6.0
